@@ -74,33 +74,33 @@
       "weight": 48,
       "age": 2.5,
       "location": "Khulna",
-      "description": "This Beetal breed goat is a heavyweight in the small animal category. Sourced from a reputable farm in Khulna, it has been fed a high-protein diet including Napier grass and quality grains. As a castrated male (Khasi), it has a perfect balance of muscle and healthy fat, ensuring superior meat quality. It is sturdy, well-proportioned, and visually impressive.",
+      "description": "This Beetal breed goat is a heavyweight in the small animal category. Sourced from a reputable farm in Khulna, it has been fed a high-protein diet including Napier grass and quality grains. As a castrated male, it has a perfect balance of muscle and healthy fat, ensuring superior meat quality. It is sturdy, well-proportioned, and visually impressive.",
       "image": "https://i.ibb.co.com/CpXv2dpg/Et-Rx-S.jpg",
       "category": "Small Animal"
     },
     {
       "id": 7,
-      "name": "Deshi Khasi",
-      "type": "Khasi",
+      "name": "Deshi Goat",
+      "type": "Goat",
       "breed": "Mixed Deshi",
       "price": 32000,
       "weight": 52,
       "age": 3,
       "location": "Bogura",
-      "description": "This premium Deshi Khasi from Bogura has been nurtured for 3 years with extreme care. It offers the classic, rich taste of local goat meat that is highly preferred in the Bangladeshi market. Weighing 52kg, it is well-fattened but maintains a lean meat profile. It is a healthy, tradition-compliant choice for a family Qurbani.",
+      "description": "This premium castrated male goat from Bogura has been nurtured for 3 years with extreme care. It offers the classic, rich taste of local goat meat that is highly preferred in the Bangladeshi market. Weighing 52kg, it is well-fattened but maintains a lean meat profile. It is a healthy, tradition-compliant choice for a family Qurbani.",
       "image": "https://i.ibb.co.com/ds3nP8hw/p-P5GU.jpg",
       "category": "Small Animal"
     },
     {
       "id": 8,
-      "name": "Large Khasi",
-      "type": "Khasi",
+      "name": "Deshi Large Goat",
+      "type": "Goat",
       "breed": "Deshi",
       "price": 38000,
       "weight": 58,
       "age": 3.5,
       "location": "Mymensingh",
-      "description": "Sourced from a marginal farm in Mymensingh, this large Deshi Khasi is exceptionally well-grown for its breed. At 3.5 years old, it has reached a significant weight of 58kg. It is a very healthy and active animal, raised in a natural environment. This is an excellent option for buyers who prefer a large goat with the authentic taste of local breeds.",
+      "description": "Sourced from a marginal farm in Mymensingh, this large castrated male goat is exceptionally well-grown for its breed. At 3.5 years old, it has reached a significant weight of 58kg. It is a very healthy and active animal, raised in a natural environment. This is an excellent option for buyers who prefer a large goat with the authentic taste of local breeds.",
       "image": "https://i.ibb.co.com/TBBwM6bZ/Large-Khasi.jpg",
       "category": "Small Animal"
     },
@@ -140,7 +140,7 @@
       "age": 7,
       "location": "Rajshahi",
       "description": "This is our most exclusive and premium camel, weighing a massive 580kg. Raised in the dry, suitable climate of Rajshahi, it has been monitored closely to ensure it meets the highest standards for sacrifice. Its majestic appearance and sheer size make it a centerpiece for large-scale or joint Qurbani events. It is healthy, compliant with religious age requirements, and represents the pinnacle of sacrificial animals.",
-      "image": "https://i.ibb.co.com/GvJVNFXw/image.webp",
+      "image": "https://i.ibb.co/Y7Wtwb69/Premium-Camel.webp",
       "category": "Large Animal"
     },
     {
@@ -171,14 +171,14 @@
     },
     {
       "id": 14,
-      "name": "Premium Khasi",
-      "type": "Khasi",
+      "name": "Premium Goat",
+      "type": "Goat",
       "breed": "Deshi",
       "price": 45000,
       "weight": 65,
       "age": 4,
       "location": "Gazipur",
-      "description": "This 4-year-old premium Khasi from Gazipur is the heaviest in our collection at 65kg. It has been specially fattened for Qurbani using high-end feed, resulting in an excellent meat-to-fat ratio. Its glossy coat and impressive weight make it a luxury choice for goat sacrifice. If you are looking for the best possible quality in a local breed, this is the one.",
+      "description": "This 4-year-old premium castrated male goat from Gazipur is the heaviest in our collection at 65kg. It has been specially fattened for Qurbani using high-end feed, resulting in an excellent meat-to-fat ratio. Its glossy coat and impressive weight make it a luxury choice for goat sacrifice. If you are looking for the best possible quality in a local breed, this is the one.",
       "image": "https://i.ibb.co.com/tpMJz2sG/premium-goat.webp",
       "category": "Small Animal"
     }
